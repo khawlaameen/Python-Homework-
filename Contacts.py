@@ -5,7 +5,7 @@ Contacts={"khawla":"777777777",
 
 print(" 1-View numbers\n 2-Add a number\n 3-Update a number\n 4-Delete a number\n 5-Delete all numbers\n")
 
-allitems=Contacts.items()
+
 
 def ViewContacts():
     print(f"{'Name':10}     {'Number':10} ")
